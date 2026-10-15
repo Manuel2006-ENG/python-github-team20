@@ -1,4 +1,4 @@
-# python-github-team20
+# python-github-team20 (Violence/Security/Safety)
 # Dataset research and justification. - Luis
 # Data cleaning and preprocessing. - Luis 
 # Writing analysis code and producing visualizations.- Jonah
